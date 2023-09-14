@@ -2,7 +2,7 @@ public class ArmstrongNumber {
     // a number which is equal to sum of its individual digit cube
     //153 = 1^3 + 5^3 = #^3
     public static void main(String[]argucbskja) {
-        int number = 1256777;
+        int number = 1533333;
         int remainder;
         int value;
         int copiedNumber = number;
